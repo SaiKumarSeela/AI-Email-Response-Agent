@@ -1,0 +1,11 @@
+fastapi
+langchain_core
+langchain_huggingface
+sentence-transformers
+pandas 
+faiss-cpu
+beautifulsoup4
+python-dotenv
+firecrawl
+python-multipart
+motor

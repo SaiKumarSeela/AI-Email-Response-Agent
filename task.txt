@@ -1,0 +1,9 @@
+1. Prompt modification for output generator and evaluation/accuracy
+2. No noeed to define sample input and output
+3. csv/excel/link for faq based question then they will do model traning after that -> generate response based upon the user query
+
+
+mongodb+srv://shivankumar:Shivan123@cluster0.veyqf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+https://drive.google.com/file/d/1HiMTPAQ4W-7V8cY6BmzIILgqA9w49O6g/view?usp=sharing
