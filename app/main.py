@@ -7,11 +7,9 @@ from app.services.file_handler import parse_faq_file, download_and_parse_public_
 from app.services.faiss_service import faq_indexer
 import time
 import asyncio
-from dotenv import load_dotenv
-import os
-# from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor
 from typing import Optional
-# from crawl4ai import AsyncWebCrawler
+from crawl4ai import AsyncWebCrawler
 app = FastAPI(title="AI Email Response Agent")
 from fastapi import HTTPException, Form, APIRouter
 global web_content
@@ -19,8 +17,6 @@ global is_web
 is_web = False
 web_content = ""
 
-# Load environment variables
-load_dotenv()
 
 @app.post("/api/upload-faq-file")
 async def upload_faq_file(file: UploadFile = File(...)):

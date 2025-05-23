@@ -4,7 +4,7 @@ import io
 import requests
 from bs4 import BeautifulSoup  # Add this import for web scraping
 import asyncio
-# from crawl4ai import AsyncWebCrawler
+from crawl4ai import AsyncWebCrawler
 from firecrawl import FirecrawlApp
 
 def parse_faq_file(file: UploadFile):

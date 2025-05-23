@@ -185,12 +185,12 @@ Email-Agent/
 
 -----------
 **Email Responses**
-  ![Screenshot (147)](https://github.com/user-attachments/assets/054529ff-16ee-425f-8725-efc4093787a1)
+![Image](https://github.com/user-attachments/assets/b568828a-263e-4bd5-a107-02ffbe730e6f)
 
 
 **Project Video Demo**
 
-https://github.com/user-attachments/assets/1a0b0bfc-9b20-459d-889b-9d9b05fb829e
+https://github.com/user-attachments/assets/398d26e3-70dc-4bb8-9dc5-6ec104990f53
 
 
 ------
